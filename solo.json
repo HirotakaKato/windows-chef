@@ -1,0 +1,6 @@
+{
+	"run_list": [
+		"git::msys",
+		"chef"
+	]
+}
